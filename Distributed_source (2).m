@@ -1,6 +1,3 @@
-%% Applied Finite Element Methods in Engineering.
-%% Trisham Bharat Patil-688519827
-%% HW-6/Final Assignment. d)- Source Term Application.
 %% Data Inpust Task.(DIT)
 clear all
 clc
